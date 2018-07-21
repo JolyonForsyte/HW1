@@ -7,6 +7,10 @@ public class Cat {
 	private int weight;
 	
 	
+	public Cat() {
+		
+	}
+	
 	public Cat(String name, int age, int weight) {
 		
 		this.name = name;
